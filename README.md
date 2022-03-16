@@ -11,6 +11,6 @@ My name is Renan Portela, I am a Ph.D. Candidate at the [University of Waterloo]
 - 😄 Pronouns: He/His;
 - ⚡ Fun fact: I have lived in four different countries:
    - Brazil (where I am from)
-   - Northern Ireland (in Belfast where I did a year abroad)
-   - Germany (in Aachen where I did my internship at the Fraunhofer IPT)
-   - Canada (where I am currently doing my Ph.D. at @uWaterloo)
+   - Northern Ireland (in Belfast when I studied at [Queen's University of Belfast](https://www.qub.ac.uk/))
+   - Germany (in Aachen where I did my internship at the [Fraunhofer IPT](https://www.ipt.fraunhofer.de/en.html))
+   - Canada (where I am currently doing my Ph.D. at @uWaterloo and doing an internship at [Fraunhofer Innovation Platform for Composite Research](https://www.eng.uwo.ca/fraunhofer/))
