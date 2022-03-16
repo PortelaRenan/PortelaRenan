@@ -7,6 +7,6 @@ My name is Renan Portela, I am a M.Sc. Mechanical Engineer and currently a Ph.D.
 - 👯 I’m looking to collaborate on Software development;
 - 🤔 I’m looking for help with subroutines in Abaqus;
 - 💬 Ask me about implementation of optimization methods;
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/renan-miranda-portela-215b7940);
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/renan-miranda-portela-215b7940);
 - 😄 Pronouns: He/His;
 - ⚡ Fun fact: I can speak some German.
