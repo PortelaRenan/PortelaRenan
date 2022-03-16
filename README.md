@@ -9,4 +9,8 @@ My name is Renan Portela, I am a M.Sc. Mechanical Engineer and currently a Ph.D.
 - 💬 Ask me about implementation of optimization methods;
 - 📫 How to reach me: linkedin.com/in/renan-miranda-portela-215b7940;
 - 😄 Pronouns: He/His;
-- ⚡ Fun fact: I can speak some German.
+- ⚡ Fun fact: I have lived in four different countries:
+               - Brazil (where I am from)
+               - Northern Ireland (in Belfast where I did a year abroad)
+               - Germany (in Aachen where I did my internship at the Fraunhofer IPT)
+               - Canada (where I am currently doing my Ph.D. at @uWaterloo)
