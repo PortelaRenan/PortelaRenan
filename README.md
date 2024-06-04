@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Renan Portela, I am a Ph.D. Candidate at the [University of Waterloo](https://uwaterloo.ca/) in Ontario, Canada.
+My name is Renan Portela, I am a Doctoral Researcher at the [University of Waterloo](https://uwaterloo.ca/) in Ontario, Canada.
 
 - 🔭 I’m currently working on experimental trials with Wet Compression Moulding (WCM) process, such as mechanical tests and microscopic assessment;
 - 💬 Ask me about implementation of optimization methods;
